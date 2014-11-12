@@ -1,9 +1,9 @@
 # Site settings
-title: Jacob's Website
-email: jmessina@albany.edu
-description: I am a boy 
-url: http://jmessina1121.github.io 
-github_username: jmessina1121
+title: ZBT Albany
+email: albanyzbtvicepresident@gmail.com
+description: ZBT 
+url: http://albanyzbtvicepresident.github.io
+github_username: albanyzbtvicepresident
 
 # Build settings
 markdown: kramdown
